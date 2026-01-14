@@ -23,5 +23,3 @@ Data Structures and Algorithms.
 - Improve problem-solving skills
 - Prepare for technical interviews
 
-###  Structure
-Each solution is named as:
