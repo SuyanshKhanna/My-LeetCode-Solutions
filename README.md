@@ -33,6 +33,7 @@ Data Structures and Algorithms.
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
@@ -46,4 +47,8 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
