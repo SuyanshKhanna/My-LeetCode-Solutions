@@ -35,6 +35,7 @@ Data Structures and Algorithms.
 | ------- |
 | [0029-divide-two-integers](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0326-power-of-three](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
@@ -59,4 +60,5 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
