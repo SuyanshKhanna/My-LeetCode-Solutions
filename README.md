@@ -30,6 +30,7 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
 |  |
@@ -66,4 +67,5 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
