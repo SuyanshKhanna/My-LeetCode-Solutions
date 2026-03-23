@@ -31,6 +31,7 @@ Data Structures and Algorithms.
 | ------- |
 | [0118-pascals-triangle](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0136-single-number) |
 ## Linked List
 |  |
 | ------- |
