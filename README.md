@@ -34,6 +34,7 @@ Data Structures and Algorithms.
 | [0136-single-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0463-island-perimeter](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0661-image-smoother](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0661-image-smoother) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +84,5 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0661-image-smoother](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
