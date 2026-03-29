@@ -35,6 +35,7 @@ Data Structures and Algorithms.
 | [0150-evaluate-reverse-polish-notation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0463-island-perimeter](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -58,6 +60,7 @@ Data Structures and Algorithms.
 | ------- |
 | [0029-divide-two-integers](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0136-single-number) |
+| [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## Linked List
 |  |
 | ------- |
@@ -85,4 +88,9 @@ Data Structures and Algorithms.
 | ------- |
 | [0463-island-perimeter](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
