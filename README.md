@@ -102,4 +102,8 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0292-nim-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
