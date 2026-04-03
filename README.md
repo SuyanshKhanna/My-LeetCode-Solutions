@@ -47,6 +47,7 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,4 +107,12 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0175-combine-two-tables) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
