@@ -1,32 +1,27 @@
 class MyQueue {
 public:
-    vector<int> stack;
-    int size=0;
-    //bool duplicate=false;
-    MyQueue() { }
+    queue<int> q;
+
+    MyQueue() {
+        
+    }
+    
     void push(int x) {
-        stack.push_back(x);
+        q.push(x);
     }
     
     int pop() {
-        
-        size = stack.size();
-        int pop = stack[0];
-        for(int i=0; i+1<size; i++){
-            stack[i] = stack[i+1];
-        }
-        stack.pop_back();
-        
-        return pop;
-
+        int poped = q.front();
+        q.pop();
+        return poped;
     }
     
     int peek() {
-        return stack[0]; 
+        return q.front();
     }
     
     bool empty() {
-        if(stack.size()==0) return true;
+        if(q.size()==0) return true;
         else
             return false;
     }
