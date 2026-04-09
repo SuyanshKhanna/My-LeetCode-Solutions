@@ -29,6 +29,7 @@ Data Structures and Algorithms.
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0136-single-number) |
@@ -40,6 +41,7 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -89,6 +91,7 @@ Data Structures and Algorithms.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
