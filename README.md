@@ -60,6 +60,7 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0796-rotate-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -121,4 +122,8 @@ Data Structures and Algorithms.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
