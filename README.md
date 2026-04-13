@@ -53,11 +53,13 @@ Data Structures and Algorithms.
 | [0150-evaluate-reverse-polish-notation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## String
 |  |
@@ -76,10 +78,12 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
