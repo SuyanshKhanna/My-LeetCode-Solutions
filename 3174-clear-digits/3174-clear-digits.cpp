@@ -1,27 +1,14 @@
 class Solution {
 public:
     string clearDigits(string s) {
-        stack<char> st;
-        int stSize=0;
-        //int len = s.size();
-        for(auto i:s){
-            st.push(i);
-            stSize++;
-            if(i>=48 && i<=57){
-                //cout<<i<<endl;
-                cout<<st.top()<<endl;
-                st.pop();
-                cout<<st.top()<<endl;
-                st.pop();
-                stSize-=2;
+        int lem = s.size();
+        string result;
+        for(int i=0; i<lem; i++){
+            if(isdigit(s[i]))
+                result.pop_back();
+            else{
+                result.push_back(s[i]);
             }
-        }
-        string result(stSize, ' ');
-        int t=stSize-1;
-        while(!st.empty()){
-            result[t]=st.top();
-            t--;
-            st.pop();
         }
         return result;
     }
