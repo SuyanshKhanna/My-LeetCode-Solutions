@@ -38,6 +38,7 @@ Data Structures and Algorithms.
 | [0463-island-perimeter](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
@@ -115,10 +116,12 @@ Data Structures and Algorithms.
 | [0463-island-perimeter](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3174-clear-digits](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Brainteaser
 |  |
