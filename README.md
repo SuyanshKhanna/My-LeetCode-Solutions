@@ -40,6 +40,7 @@ Data Structures and Algorithms.
 | [0661-image-smoother](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
 | ------- |
@@ -154,11 +155,13 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0561-array-partition) |
+| [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
 | ------- |
