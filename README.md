@@ -34,6 +34,7 @@ Data Structures and Algorithms.
 | [0119-pascals-triangle-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0463-island-perimeter](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0561-array-partition](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -182,4 +183,8 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0561-array-partition) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
