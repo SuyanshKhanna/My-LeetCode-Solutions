@@ -79,6 +79,7 @@ Data Structures and Algorithms.
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [2833-furthest-point-from-origin](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Bit Manipulation
 |  |
@@ -157,6 +158,7 @@ Data Structures and Algorithms.
 | ------- |
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
 | ------- |
