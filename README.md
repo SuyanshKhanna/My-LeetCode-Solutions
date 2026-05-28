@@ -51,6 +51,7 @@ Data Structures and Algorithms.
 | [0189-rotate-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2469-convert-the-temperature](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2928-distribute-candies-among-children-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
 ## Stack
@@ -93,6 +94,7 @@ Data Structures and Algorithms.
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
