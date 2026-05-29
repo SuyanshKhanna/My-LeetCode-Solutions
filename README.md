@@ -42,6 +42,7 @@ Data Structures and Algorithms.
 | [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Data Structures and Algorithms.
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2469-convert-the-temperature](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2928-distribute-candies-among-children-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Stack
 |  |
 | ------- |
