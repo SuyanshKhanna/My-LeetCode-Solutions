@@ -41,6 +41,7 @@ Data Structures and Algorithms.
 | [0661-image-smoother](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -174,6 +175,7 @@ Data Structures and Algorithms.
 | ------- |
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0561-array-partition) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
