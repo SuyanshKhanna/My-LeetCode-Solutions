@@ -84,6 +84,7 @@ Data Structures and Algorithms.
 | ------- |
 | [0125-valid-palindrome](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [2833-furthest-point-from-origin](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -160,6 +161,7 @@ Data Structures and Algorithms.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Data Structures and Algorithms.
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -180,6 +183,7 @@ Data Structures and Algorithms.
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Combinatorics
 |  |
