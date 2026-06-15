@@ -79,6 +79,7 @@ Data Structures and Algorithms.
 | [0234-palindrome-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -104,6 +105,7 @@ Data Structures and Algorithms.
 | [0203-remove-linked-list-elements](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
