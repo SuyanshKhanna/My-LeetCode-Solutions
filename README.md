@@ -57,6 +57,7 @@ Data Structures and Algorithms.
 | [0292-nim-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2469-convert-the-temperature](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2928-distribute-candies-among-children-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
