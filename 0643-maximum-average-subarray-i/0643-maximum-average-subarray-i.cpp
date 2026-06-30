@@ -10,6 +10,7 @@ public:
         maxi=sum;
         for(int i=k; i<len; i++){
            double newsum= sum-(nums[i-k])+(nums[i]);
+
            maxi = max(maxi, newsum);
            sum=newsum;
         }
