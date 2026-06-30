@@ -39,6 +39,7 @@ Data Structures and Algorithms.
 | [0209-minimum-size-subarray-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0463-island-perimeter](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0561-array-partition](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -226,4 +227,5 @@ Data Structures and Algorithms.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
