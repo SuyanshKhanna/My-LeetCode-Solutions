@@ -29,6 +29,7 @@ Data Structures and Algorithms.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -175,6 +176,7 @@ Data Structures and Algorithms.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
