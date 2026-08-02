@@ -60,6 +60,7 @@ Data Structures and Algorithms.
 | [0048-rotate-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -84,6 +85,7 @@ Data Structures and Algorithms.
 | ------- |
 | [0125-valid-palindrome](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -188,6 +190,7 @@ Data Structures and Algorithms.
 | ------- |
 | [0001-two-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
