@@ -63,6 +63,7 @@ Data Structures and Algorithms.
 | [0202-happy-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -100,6 +101,7 @@ Data Structures and Algorithms.
 | [0344-reverse-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [2833-furthest-point-from-origin](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -152,6 +154,7 @@ Data Structures and Algorithms.
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3174-clear-digits](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3174-clear-digits) |
