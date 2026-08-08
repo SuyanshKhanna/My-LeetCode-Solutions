@@ -31,6 +31,7 @@ Data Structures and Algorithms.
 | ------- |
 | [0001-two-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0136-single-number) |
@@ -84,6 +85,7 @@ Data Structures and Algorithms.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -201,6 +203,7 @@ Data Structures and Algorithms.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -256,4 +259,12 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
