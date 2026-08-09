@@ -72,6 +72,7 @@ Data Structures and Algorithms.
 | [2928-distribute-candies-among-children-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3894-traffic-signal-color](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Data Structures and Algorithms.
 | [2833-furthest-point-from-origin](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3174-clear-digits) |
+| [3894-traffic-signal-color](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Data Structures and Algorithms.
 | [2022-convert-1d-array-into-2d-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3174-clear-digits](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3894-traffic-signal-color](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Brainteaser
 |  |
 | ------- |
