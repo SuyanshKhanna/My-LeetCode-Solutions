@@ -109,6 +109,7 @@ Data Structures and Algorithms.
 | [0796-rotate-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [2833-furthest-point-from-origin](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3894-traffic-signal-color](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
@@ -204,6 +205,7 @@ Data Structures and Algorithms.
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
@@ -257,6 +259,7 @@ Data Structures and Algorithms.
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Number Theory
 |  |
 | ------- |
