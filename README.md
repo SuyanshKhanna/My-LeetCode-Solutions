@@ -51,6 +51,7 @@ Data Structures and Algorithms.
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2574-left-and-right-sum-differences](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -69,6 +70,7 @@ Data Structures and Algorithms.
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2928-distribute-candies-among-children-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -174,6 +176,7 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0292-nim-game) |
+| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Database
 |  |
@@ -221,6 +224,7 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Combinatorics
 |  |
@@ -234,6 +238,7 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0561-array-partition) |
+| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -276,4 +281,16 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
