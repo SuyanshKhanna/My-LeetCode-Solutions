@@ -46,6 +46,7 @@ Data Structures and Algorithms.
 | [0661-image-smoother](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0821-shortest-distance-to-a-character](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [1386-cinema-seat-allocation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -122,6 +123,7 @@ Data Structures and Algorithms.
 | [0136-single-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [1386-cinema-seat-allocation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 ## Linked List
 |  |
 | ------- |
@@ -206,6 +208,7 @@ Data Structures and Algorithms.
 | [0202-happy-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [1386-cinema-seat-allocation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -238,6 +241,7 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0561-array-partition) |
+| [1386-cinema-seat-allocation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Counting Sort
 |  |
