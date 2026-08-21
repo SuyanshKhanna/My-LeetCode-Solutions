@@ -252,6 +252,7 @@ Data Structures and Algorithms.
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0278-first-bad-version) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -297,4 +298,8 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
