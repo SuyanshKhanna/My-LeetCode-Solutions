@@ -40,6 +40,7 @@ Data Structures and Algorithms.
 | [0189-rotate-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0561-array-partition](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -96,6 +97,7 @@ Data Structures and Algorithms.
 | [0202-happy-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -206,6 +208,7 @@ Data Structures and Algorithms.
 | [0001-two-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -217,6 +220,7 @@ Data Structures and Algorithms.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -253,6 +257,7 @@ Data Structures and Algorithms.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
