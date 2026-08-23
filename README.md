@@ -1,310 +1,78 @@
-# LeetCode Solutions 
+<div align="center">
 
-This repository contains my solutions to LeetCode problems, implemented while practicing
-Data Structures and Algorithms.
+# LeetCode Practice Vault
 
-###  Languages Used
-- C
-- C++
-- Python
+### Problem-Solving Journey & DSA Practice Log
 
-###  Topics Covered
-- Arrays
-- Strings
-- Linked Lists
-- Stack & Queue
-- Sliding Window
-- Math
-- Hashing
+![Primary Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Supporting Language](https://img.shields.io/badge/Supporting-Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-DSA%20%26%20Problem%20Solving-FF9900?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)
 
-###  Goals
-- Write clean and readable code
-- Understand edge cases deeply
-- Improve problem-solving skills
-- Prepare for technical interviews
+</div>
+
+---
+
+<div align="center">
+
+### Live LeetCode Analytics
+
+<a href="https://leetcode.com/u/Suyansh_Khanna/">
+  <img src="https://leetcard.jacoblin.cool/Suyansh_Khanna?theme=dark&font=Baloo_2&ext=activity" alt="LeetCode Activity" width="410" align="center" />
+</a>
+<a href="https://leetcode.com/u/Suyansh_Khanna/">
+  <img src="https://leetcard.jacoblin.cool/Suyansh_Khanna?theme=dark&font=Baloo_2&ext=heatmap" alt="LeetCode Heatmap" width="410" align="center" />
+</a>
+
+</div>
+
+<br clear="all" />
+
+---
+
+### Repository Overview
+
+This repository contains my solutions to problems solved on LeetCode, maintained as a personal DSA practice log.
+
+Each problem focuses on understanding the underlying pattern, developing an efficient solution, and analyzing its time and space complexity.
+
+The goal is not just to solve problems, but to build strong problem-solving fundamentals through consistent practice.
+
+---
+
+### Core Focus Areas
+
+| Category           | Topics Covered                             | Key Patterns                                 |
+| :----------------- | :----------------------------------------- | :------------------------------------------- |
+| *Arrays & Strings* | Arrays, Strings, Hashing, Prefix Sum       | Two Pointers, Sliding Window, Frequency Maps |
+| *Data Structures*  | Linked Lists, Stacks, Queues, Trees, Heaps | BFS, DFS, Recursion, Traversal               |
+| *Algorithms*       | Sorting, Searching, Binary Search, Greedy  | Divide & Conquer, Optimization               |
+| *Advanced DSA*     | Graphs, Dynamic Programming, Backtracking  | Memoization, Tabulation, State Search        |
+
+---
+
+### Tech Stack & Tooling
+
+* *Primary Language:* C++ (Data Structures & Algorithms)
+* *Secondary Language:* Java
+* *Practice Platform:* LeetCode
+* *Development Environment:* VS Code
+* *Version Control:* Git & GitHub
+
+---
+
+### Progress
+
+Currently building consistency across **Easy and Medium** problems while strengthening fundamental DSA patterns and problem-solving techniques.
+
+Every solution is an opportunity to improve efficiency, recognize patterns, and write cleaner code.
+
+---
+
+<div align="center">
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0001-two-sum) |
-| [0048-rotate-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0048-rotate-image) |
-| [0075-sort-colors](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
-| [0118-pascals-triangle](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
-| [0119-pascals-triangle-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
-| [0136-single-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0136-single-number) |
-| [0150-evaluate-reverse-polish-notation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0189-rotate-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0189-rotate-array) |
-| [0209-minimum-size-subarray-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
-| [0238-product-of-array-except-self](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
-| [0350-intersection-of-two-arrays-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0463-island-perimeter](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0463-island-perimeter) |
-| [0561-array-partition](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0561-array-partition) |
-| [0643-maximum-average-subarray-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
-| [0661-image-smoother](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0661-image-smoother) |
-| [0821-shortest-distance-to-a-character](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
-| [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
-| [1386-cinema-seat-allocation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
-| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
-| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
-| [2022-convert-1d-array-into-2d-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
-| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
-| [2574-left-and-right-sum-differences](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
-| [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
-| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
-| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
-## Math
-|  |
-| ------- |
-| [0029-divide-two-integers](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
-| [0048-rotate-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0048-rotate-image) |
-| [0150-evaluate-reverse-polish-notation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
-| [0189-rotate-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0189-rotate-array) |
-| [0202-happy-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0202-happy-number) |
-| [0292-nim-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0292-nim-game) |
-| [0326-power-of-three](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0326-power-of-three) |
-| [0412-fizz-buzz](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
-| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
-| [1344-angle-between-hands-of-a-clock](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
-| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
-| [2469-convert-the-temperature](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
-| [2928-distribute-candies-among-children-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
-| [3222-find-the-winning-player-in-coin-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
-| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
-| [3894-traffic-signal-color](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
-## Stack
-|  |
-| ------- |
-| [0150-evaluate-reverse-polish-notation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
-| [0225-implement-stack-using-queues](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
-| [0232-implement-queue-using-stacks](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
-| [0234-palindrome-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
-| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
-| [3174-clear-digits](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3174-clear-digits) |
-## Two Pointers
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
-| [0125-valid-palindrome](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
-| [0189-rotate-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0189-rotate-array) |
-| [0202-happy-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0202-happy-number) |
-| [0234-palindrome-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
-| [0344-reverse-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0344-reverse-string) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0821-shortest-distance-to-a-character](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
-| [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
-| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0125-valid-palindrome](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
-| [0344-reverse-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0344-reverse-string) |
-| [0387-first-unique-character-in-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
-| [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
-| [0412-fizz-buzz](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
-| [0796-rotate-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0796-rotate-string) |
-| [0821-shortest-distance-to-a-character](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
-| [2833-furthest-point-from-origin](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
-| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
-| [3120-count-the-number-of-special-characters-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
-| [3174-clear-digits](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3174-clear-digits) |
-| [3894-traffic-signal-color](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0029-divide-two-integers](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
-| [0136-single-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0136-single-number) |
-| [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
-| [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
-| [1386-cinema-seat-allocation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
-## Linked List
-|  |
-| ------- |
-| [0203-remove-linked-list-elements](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
-| [0206-reverse-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
-| [0234-palindrome-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
-| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
-| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
-## Recursion
-|  |
-| ------- |
-| [0203-remove-linked-list-elements](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
-| [0206-reverse-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
-| [0234-palindrome-linked-list](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
-| [0326-power-of-three](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0326-power-of-three) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0118-pascals-triangle](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
-| [0119-pascals-triangle-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
-## Depth-First Search
-|  |
-| ------- |
-| [0463-island-perimeter](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0463-island-perimeter) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0463-island-perimeter](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0463-island-perimeter) |
-## Matrix
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0048-rotate-image) |
-| [0463-island-perimeter](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0463-island-perimeter) |
-| [0661-image-smoother](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0661-image-smoother) |
-| [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
-| [2022-convert-1d-array-into-2d-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
-## Simulation
-|  |
-| ------- |
-| [0412-fizz-buzz](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
-| [0832-flipping-an-image](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
-| [2022-convert-1d-array-into-2d-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
-| [3174-clear-digits](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3174-clear-digits) |
-| [3222-find-the-winning-player-in-coin-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
-| [3894-traffic-signal-color](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
-## Brainteaser
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0292-nim-game) |
-## Game Theory
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0292-nim-game) |
-| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
-| [3222-find-the-winning-player-in-coin-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
-## Database
-|  |
-| ------- |
-| [0175-combine-two-tables](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0175-combine-two-tables) |
-| [0181-employees-earning-more-than-their-managers](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
-## Design
-|  |
-| ------- |
-| [0225-implement-stack-using-queues](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
-| [0232-implement-queue-using-stacks](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
-## Queue
-|  |
-| ------- |
-| [0225-implement-stack-using-queues](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
-| [0232-implement-queue-using-stacks](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
-| [0387-first-unique-character-in-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
-## String Matching
-|  |
-| ------- |
-| [0796-rotate-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0796-rotate-string) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0001-two-sum) |
-| [0003-longest-substring-without-repeating-characters](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0202-happy-number](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0202-happy-number) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0387-first-unique-character-in-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
-| [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
-| [1386-cinema-seat-allocation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
-| [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
-| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
-| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
-| [3120-count-the-number-of-special-characters-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
-## Sorting
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0389-find-the-difference](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
-| [0561-array-partition](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0561-array-partition) |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
-| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
-| [2784-check-if-array-is-good](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
-| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
-## Counting
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
-| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
-| [2833-furthest-point-from-origin](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
-## Combinatorics
-|  |
-| ------- |
-| [2928-distribute-candies-among-children-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
-## Enumeration
-|  |
-| ------- |
-| [2928-distribute-candies-among-children-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
-## Greedy
-|  |
-| ------- |
-| [0561-array-partition](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0561-array-partition) |
-| [1386-cinema-seat-allocation](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
-| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
-## Counting Sort
-|  |
-| ------- |
-| [0561-array-partition](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0561-array-partition) |
-## Binary Search
-|  |
-| ------- |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0209-minimum-size-subarray-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
-| [0278-first-bad-version](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0278-first-bad-version) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
-## Monotonic Stack
-|  |
-| ------- |
-| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
-## Prefix Sum
-|  |
-| ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
-| [0238-product-of-array-except-self](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
-| [2574-left-and-right-sum-differences](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0209-minimum-size-subarray-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
-| [0643-maximum-average-subarray-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
-| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
-## Number Theory
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
-## Quicksort
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
-## Bubble Sort
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
-## Minimax
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
-## Nim Game
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
-## Zero-Sum Game
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
-## Interactive
-|  |
-| ------- |
-| [0278-first-bad-version](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0278-first-bad-version) |
-<!---LeetCode Topics End-->
+
+
+
+</div>
