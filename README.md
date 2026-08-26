@@ -86,6 +86,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1927-sum-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -111,5 +112,10 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
