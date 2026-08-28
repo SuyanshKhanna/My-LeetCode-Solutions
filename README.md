@@ -100,6 +100,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0015-3sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -118,4 +119,12 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
