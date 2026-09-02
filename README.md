@@ -83,6 +83,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1927-sum-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 | [0015-3sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0015-3sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
