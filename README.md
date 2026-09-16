@@ -106,6 +106,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0015-3sum) |
+| [0682-baseball-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -153,4 +154,12 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
