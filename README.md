@@ -92,6 +92,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 | ------- |
 | [0383-ransom-note](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1927-sum-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1927-sum-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -162,4 +163,5 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
