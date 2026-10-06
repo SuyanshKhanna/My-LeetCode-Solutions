@@ -91,11 +91,13 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
@@ -161,6 +163,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Simulation
 |  |
 | ------- |
@@ -170,4 +173,8 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
