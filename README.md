@@ -82,6 +82,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -90,6 +91,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -125,6 +127,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
