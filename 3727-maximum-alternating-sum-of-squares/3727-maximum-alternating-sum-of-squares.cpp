@@ -9,7 +9,7 @@ public:
         int i=0; 
         int j=nums.size()-1;
         long long sum=0;
-        while(i <= j){
+        while(i < j){
            
             sum -= static_cast<long long>(nums[i])*static_cast<long long>(nums[i]);
             sum += static_cast<long long>(nums[j])*static_cast<long long>(nums[j]);
@@ -19,6 +19,9 @@ public:
             i++;
             j--;
         }
+        if(i==j){
+                sum += static_cast<long long>(nums[i])*static_cast<long long>(nums[i]);
+            }
         return sum;
     }
 };
