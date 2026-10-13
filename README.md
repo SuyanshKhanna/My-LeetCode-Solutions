@@ -102,6 +102,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Game Theory
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 | [2778-sum-of-squares-of-special-elements](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -146,6 +148,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0015-3sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
