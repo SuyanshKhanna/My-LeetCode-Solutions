@@ -10,7 +10,7 @@ public:
         int j=nums.size()-1;
         long long sum=0;
         while(i <= j){
-            cout<<"hello"<<endl;
+           
             sum -= static_cast<long long>(nums[i])*static_cast<long long>(nums[i]);
             sum += static_cast<long long>(nums[j])*static_cast<long long>(nums[j]);
             if(i==j){
