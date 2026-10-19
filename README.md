@@ -113,6 +113,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 | [0004-median-of-two-sorted-arrays](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0682-baseball-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -123,6 +124,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,6 +150,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0015-3sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
