@@ -110,6 +110,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0682-baseball-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -132,6 +133,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0383-ransom-note) |
