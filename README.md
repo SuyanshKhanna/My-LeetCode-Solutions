@@ -86,6 +86,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 | [0231-power-of-two](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/1927-sum-game) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -120,6 +121,7 @@ Every solution is an opportunity to improve efficiency, recognize patterns, and 
 | [3483-unique-3-digit-even-numbers](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SuyanshKhanna/My-LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
